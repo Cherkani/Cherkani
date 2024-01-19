@@ -41,6 +41,6 @@ Cherkani Aymen, ENSAJ student, Morocco.<br>4-year software engineer, specialized
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cherkani&theme=dark&hide_border=false)
 
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ayoubrakine}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cherkani}/count.svg" /></p> 
 <br>
 </div>
