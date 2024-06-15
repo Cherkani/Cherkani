@@ -1,6 +1,7 @@
 <h1 align="center" style="font-family: Righteous, sans-serif; color: #000000; font-size: 35px;">Aymen</h1>
 
 
+<h1 align="center" style="font-family: 'Righteous', sans-serif; color: #00AEEF; font-size: 35px;">Aymen</h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cherkani&label=Profile%20views&color=0e75b6&style=flat" alt="cherkani" /> </p>
 
