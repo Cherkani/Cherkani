@@ -47,6 +47,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Cherkani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cherkani&theme=dark&hide_border=false)
 
+
+
+
+
+
 ## 💫 About Me:
 
-Cherkani Aymen, ENSAJ student, Morocco.`<br>`4-year software engineer, specialized in OOP.`<br>`Experienced in Java, web technologies, SDLC.`<br>`Full-stack web and mobile app development.`<br>`Eager to refine skills, contribute to computer science...
+Cherkani Aymen, ENSAJ student, Morocco.`<br>`4-year software engineer, specialized in OOP.`<br>`Experienced in Java, web technologies, SDLC.`<br>`Full-stack web and mobile app development.`<br>`Eager to refine skills, contribute to computer science.
