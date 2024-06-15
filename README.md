@@ -26,7 +26,8 @@
 ⚡  All of my projects are available [here](https://cherkani.me)
 
  </div>
- 
+ <br/>
+ <br/>
 <div align="center"> 
   <a href="mailto:cherkaniaymen1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -38,10 +39,11 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<br/><br/>
  <hr/>
- 
+ <br/><br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,androidstudio,vite,html,css,laravel,vscode,github,figma,tailwind,r" />
@@ -49,8 +51,9 @@
 </div>
 
 <br/>
+<br/><br/>
 <hr/>
-
+<br/><br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -61,9 +64,9 @@
 </picture>
   <br/><br/><br/>
 </div>
-
+<br/><br/>
 <hr/>
-
+<br/><br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <div align="center">
@@ -87,7 +90,7 @@
 
 
 
-
+<br/><br/>
 
 
 
@@ -97,7 +100,9 @@
 
 
 <hr/>
+<br/><br/>
 ## 💫 About Me:
+<br/>
 <div align="center">
  
 
