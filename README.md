@@ -4,8 +4,7 @@
   <img alt="github-snake" src="https://github.com/Cherkani/Cherkani/blob/output/github-snake.svg" />
 </picture>
 
-![snake gif](https://github.com/Cherkani/Cherkani/blob/output/github-contribution-grid-snake.gif)
-![snake gif](https://github.com/Cherkani/Cherkani/blob/output/github-contribution-grid-snake.gif)
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cherkani.Cherkani" />
 
