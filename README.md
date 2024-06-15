@@ -4,8 +4,7 @@
 
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=36bcf7&center=true&vCenter=true&repeat=false&width=556&height=70&lines=lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=36bcf7&center=true&vCenter=true&repeat=false&width=556&height=70&lines=Cherkani+Aymen" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=36bcf7&center=true&vCenter=true&repeat=false&width=556&height=70&lines=I+'+m+Cherkani+Aymen" alt="Typing SVG" /></a>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36bcf7&center=true&vCenter=true&width=556&height=70&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB;FullStack+Developer;MOBILE+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
 </p>
 
