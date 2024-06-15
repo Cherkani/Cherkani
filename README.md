@@ -65,6 +65,34 @@
 # test part 
 
 
+<p align="center">
+    <a href="mailto:your-email@example.com">
+        <img width="64px" alt="Email" title="Send me an email" src="static/social-icons/mail.gif"/>
+    </a>
+    &emsp;
+    <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+        <img width="64px" alt="Linkedin" title="Connect with me" src="static/social-icons/linkedin.gif"/>
+    </a>
+    &emsp;
+    <a href="https://your-portfolio-website.com/">
+        <img width="64px" alt="Portfolio" title="Visit my portfolio" src="static/social-icons/www.gif"/>
+    </a>
+    &emsp;
+    <a href="https://twitter.com/your-twitter-handle">
+        <img width="64px" alt="Twitter" title="Follow me on Twitter" src="static/social-icons/twitter.gif"/>
+    </a>
+    &emsp;
+    <a href="https://www.instagram.com/your-instagram-handle/">
+        <img width="64px" alt="Instagram" title="Follow me on Instagram" src="static/social-icons/instagram.gif"/>
+    </a>
+</p>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://your-github-profile/repo/path/to/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://your-github-profile/repo/path/to/github-snake-light.svg" />
+    <img alt="github-snake" src="https://your-github-profile/repo/path/to/github-snake-light.svg" />
+</picture>
+
 
 
 
