@@ -36,7 +36,7 @@ jobs:
       # Push the changes to the output branch
       - name: Push changes
         env:
-          TOKEN: ${{ secrets.token1 }}
+          TOKEN: ${{ secrets.TOKEN1 }}
         run: |
           git config --global user.email "cherkaniaymen1@gmail.com"
           git config --global user.name "Cherkani"
@@ -53,4 +53,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          TOKEN: ${{ secrets.token1 }}
+          TOKEN: ${{ secrets.TOKEN1 }}
