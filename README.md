@@ -1,6 +1,6 @@
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cherkani&label=Profile%20views&color=DF3561FF&style=flat" alt="cherkani" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cherkani&label=Profile%20views&color=FFFFFF&style=flat" alt="cherkani" /> </p>
 
 
 <p align="center">
