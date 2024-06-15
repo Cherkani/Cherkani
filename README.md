@@ -61,7 +61,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Cherkani&theme=tokyonight" />
 </div>
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Cherkani/Cherkani/main/most-used-languages.png" alt="Most Used Languages" />
+</div>
 # test part 
 
 
