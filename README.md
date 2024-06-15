@@ -101,7 +101,8 @@
 
 <hr/>
 <br/><br/>
-## 💫 About Me:
+
+<h2 align="center">💫 About Me 💫 </h2>
 <br/>
 <div align="center">
  
