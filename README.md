@@ -53,10 +53,24 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Cherkani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cherkani&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Cherkani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cherkani&theme=tokyonight&hide_border=false)
 
-
+## 📊 Profile stat
+<br />
+<div align="center">
+    <img src="https://streak-stats.demolab.com/?user=cherkani&theme=tokyonight" />
+</div>
+<p>
+    <img alt="footer" src="./static/footer.svg">
+</p>
+<br />
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cherkani&theme=tokyonight" />
+</div>
+<p>
+    <img alt="footer" src="./static/footer.svg">
+</p>
 # test part 
 
 
@@ -83,22 +97,6 @@
 	<a target="_blank" href="https://cherkani.me/">
 		<img width="64px" alt="Portfolio" title="Visit my portfolio" src="static/social-icons/www.gif"/>
 	</a>
-<!-- 	&emsp; -->
-<!-- 	<a target="_blank" href="https://twitter.com/link">
-		<img width="64px" alt="Twitter" title="Follow me on twitter" src="static/social-icons/twitter.gif"/>
-	</a> -->
-	&emsp;
-	<a target="_blank" href="https://www.instagram.com/cherkaniaymen/">
-		<img width="64px" alt="Instagram" title="Follow me on instagram" src="static/social-icons/instagram.gif"/>
-	</a>
-<!-- 	&emsp; -->
-<!-- 	<a target="_blank" href="https://discord.com/users/numlink">
-		<img width="64px" alt="Discord" title="Join me on discord" src="static/social-icons/discord.gif"/>
-	</a> -->
-<!-- 	&emsp; -->
-<!-- 	<a target="_blank" href="https://medium.com/@link">
-		<img width="64px" alt="Medium" title="Read my articles on Medium" src="static/social-icons/medium.gif"/>
-	</a> -->
 </p>
 
 <picture>
@@ -109,17 +107,10 @@
 
 ***
 
-## 📊 Profile stat
-<br />
-<div align="center">
-    <img src="https://streak-stats.demolab.com/?user=cherkani&theme=tokyonight" />
-</div>
-<p>
-    <img alt="footer" src="./static/footer.svg">
-</p>
+
 
 
 
 ## 💫 About Me:
 
-Cherkani Aymen, ENSAJ student, Morocco.`<br>`4-year software engineer, specialized in OOP.`<br>`Experienced in Java, web technologies, SDLC.`<br>`Full-stack web and mobile app development.`<br>`Eager to refine skills, contribute to computer science.
+Cherkani Aymen, ENSAJ student, Morocco. <br> 4-year software engineer, specialized in OOP.`<br>`Experienced in Java, web technologies, SDLC.`<br>`Full-stack web and mobile app development.`<br>`Eager to refine skills, contribute to computer science.
