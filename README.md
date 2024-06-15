@@ -57,22 +57,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cherkani&theme=dark&hide_border=false)
 
 
-# Your Project Title
+# test part 
 
-![GitHub Contribution Grid Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
-## Other Sections of Your README
+
+
 
 
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1&pause=1000&color=DF3561FF&center=true&vCenter=true&repeat=false&width=556&height=64&lines=Hamza+Mesrar" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DF3561FF&center=true&vCenter=true&width=556&height=64&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB;Aspiring+Data+Engineer+and+Analyst;MERN+Stack+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1&pause=1000&color=DF3561FF&center=true&vCenter=true&repeat=false&width=556&height=64&lines=Aymen+Cherkani" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DF3561FF&center=true&vCenter=true&width=556&height=64&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB;Aspiring+Devops+Engineer+and+Analyst;MERN+Stack+Developer;MOBILE+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
 </p>
 
 
 <p align="center">
-	<a target="_blank" href="mailto:mesrarhamza48@gmail.com">
+	<a target="_blank" href="mailto:cherkaniaymen1@gmail.com">
 		<img width="64px" alt="Email" title="send me an email" src="static/social-icons/mail.gif"/>
 	</a>
 	&emsp;
@@ -80,31 +80,31 @@
 		<img width="64px" alt="Linkedin" title="Connect with me" src="static/social-icons/linkedin.gif"/>
 	</a>
 	&emsp;
-	<a target="_blank" href="https://hmesrar.netlify.app/">
+	<a target="_blank" href="https://cherkani.me/">
 		<img width="64px" alt="Portfolio" title="Visit my portfolio" src="static/social-icons/www.gif"/>
 	</a>
-	&emsp;
-	<a target="_blank" href="https://twitter.com/ez7mz">
+<!-- 	&emsp; -->
+<!-- 	<a target="_blank" href="https://twitter.com/link">
 		<img width="64px" alt="Twitter" title="Follow me on twitter" src="static/social-icons/twitter.gif"/>
-	</a>
+	</a> -->
 	&emsp;
-	<a target="_blank" href="https://www.instagram.com/ez7m.z/">
+	<a target="_blank" href="https://www.instagram.com/cherkaniaymen/">
 		<img width="64px" alt="Instagram" title="Follow me on instagram" src="static/social-icons/instagram.gif"/>
 	</a>
-	&emsp;
-	<a target="_blank" href="https://discord.com/users/914933274948825191">
+<!-- 	&emsp; -->
+<!-- 	<a target="_blank" href="https://discord.com/users/numlink">
 		<img width="64px" alt="Discord" title="Join me on discord" src="static/social-icons/discord.gif"/>
-	</a>
-	&emsp;
-	<a target="_blank" href="https://medium.com/@hmesrar">
+	</a> -->
+<!-- 	&emsp; -->
+<!-- 	<a target="_blank" href="https://medium.com/@link">
 		<img width="64px" alt="Medium" title="Read my articles on Medium" src="static/social-icons/medium.gif"/>
-	</a>
+	</a> -->
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ez7mz/ez7mz/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ez7mz/ez7mz/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ez7mz/ez7mz/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cherkani/cherkani/blob/output/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cherkani/cherkani/blob/output/github-contribution-grid-snake.gif" />
+  <img alt="github-snake" src="https://github.com/cherkani/cherkani/blob/output/github-contribution-grid-snake.gif" />
 </picture>
 
 ***
@@ -112,7 +112,7 @@
 ## 📊 Profile stat
 <br />
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=ez7mz&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com/?user=cherkani&theme=tokyonight" />
 </div>
 <p>
     <img alt="footer" src="./static/footer.svg">
