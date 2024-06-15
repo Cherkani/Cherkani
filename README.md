@@ -4,14 +4,14 @@
 
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=36bcf7&center=true&vCenter=true&repeat=false&width=556&height=70&lines=I+'+m+Cherkani+Aymen+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=36bcf7&center=true&vCenter=true&repeat=false&width=556&height=70&lines=Aymen+Cherkani+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36bcf7&center=true&vCenter=true&width=556&height=70&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB;FullStack+Developer;MOBILE+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
 </p>
 
 
 <!--font=Fira+Code-->
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Morroco MA</h3>
 
 <br/>
 
@@ -44,8 +44,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,androidstudio,vite,html,css,laravel,vscode,github,figma,tailwind,git,r,jquery" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,linux,express,mysql,firebase,mongodb,c,java,nextjs,mysql,aws,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,androidstudio,vite,html,css,laravel,vscode,github,figma,tailwind,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,linux,express,mysql,firebase,mongodb,c,java,jquery,aws,postman,git" /><br>
 </div>
 
 <br/>
