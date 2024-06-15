@@ -66,7 +66,7 @@
 </p>
 <br />
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cherkani&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Cherkani&theme=tokyonight" />
 </div>
 <p>
     <img alt="footer" src="./static/footer.svg">
