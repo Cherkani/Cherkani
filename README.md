@@ -1,6 +1,5 @@
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
-![snake animation](https://github.com/Cherkani/Cherkani/blob/output/github-contribution-grid-snake2.svg)
 
+![snake gif](https://github.com/Cherkani/Cherkani/blob/output/github-contribution-grid-snake.gif)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cherkani.Cherkani" />
 
