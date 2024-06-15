@@ -65,43 +65,13 @@
 # test part 
 
 
-<p align="center">
-    <a href="mailto:your-email@example.com">
-        <img width="64px" alt="Email" title="Send me an email" src="static/social-icons/mail.gif"/>
-    </a>
-    &emsp;
-    <a href="https://www.linkedin.com/in/your-linkedin-profile/">
-        <img width="64px" alt="Linkedin" title="Connect with me" src="static/social-icons/linkedin.gif"/>
-    </a>
-    &emsp;
-    <a href="https://your-portfolio-website.com/">
-        <img width="64px" alt="Portfolio" title="Visit my portfolio" src="static/social-icons/www.gif"/>
-    </a>
-    &emsp;
-    <a href="https://twitter.com/your-twitter-handle">
-        <img width="64px" alt="Twitter" title="Follow me on Twitter" src="static/social-icons/twitter.gif"/>
-    </a>
-    &emsp;
-    <a href="https://www.instagram.com/your-instagram-handle/">
-        <img width="64px" alt="Instagram" title="Follow me on Instagram" src="static/social-icons/instagram.gif"/>
-    </a>
-</p>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://your-github-profile/repo/path/to/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://your-github-profile/repo/path/to/github-snake-light.svg" />
-    <img alt="github-snake" src="https://your-github-profile/repo/path/to/github-snake-light.svg" />
-</picture>
-
-
-
-
-
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1&pause=1000&color=DF3561FF&center=true&vCenter=true&repeat=false&width=556&height=64&lines=Aymen+Cherkani" alt="Typing SVG" /></a>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DF3561FF&center=true&vCenter=true&width=556&height=64&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB;Aspiring+Devops+Engineer+and+Analyst;MERN+Stack+Developer;MOBILE+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
 </p>
+
+
 
 
 <p align="center">
@@ -119,10 +89,11 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cherkani/cherkani/blob/output/github-contribution-grid-snake.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cherkani/cherkani/blob/output/github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="https://github.com/cherkani/cherkani/blob/output/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-contribution-grid-snake.gif" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-contribution-grid-snake.gif" />
 </picture>
+
 
 ***
 
