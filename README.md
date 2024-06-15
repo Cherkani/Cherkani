@@ -57,9 +57,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cherkani&theme=dark&hide_border=false)
 
 
-# Snake
+# Your Project Title
 
-https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
+![GitHub Contribution Grid Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+## Other Sections of Your README
 
 
 
