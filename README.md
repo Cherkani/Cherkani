@@ -1,11 +1,23 @@
 
 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cherkani&label=Profile%20views&color=0e75b6&style=flat" alt="cherkani" /> </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cherkani.Cherkani" />
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1&pause=1000&color=DF3561FF&center=true&vCenter=true&repeat=false&width=556&height=64&lines=Aymen+Cherkani" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DF3561FF&center=true&vCenter=true&width=556&height=64&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB;Aspiring+Devops+Engineer+and+Analyst;MERN+Stack+Developer;MOBILE+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
+</p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cherkani+Aymen!;" />
+</h1>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cherkani+Aymen!;" />
+    
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
@@ -96,13 +108,8 @@
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cherkani&label=Profile%20views&color=0e75b6&style=flat" alt="cherkani" /> </p>
 
 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1&pause=1000&color=DF3561FF&center=true&vCenter=true&repeat=false&width=556&height=64&lines=Aymen+Cherkani" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DF3561FF&center=true&vCenter=true&width=556&height=64&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB;Aspiring+Devops+Engineer+and+Analyst;MERN+Stack+Developer;MOBILE+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
-</p>
 
 
 
