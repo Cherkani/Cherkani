@@ -54,19 +54,7 @@
 <br/><br/>
 <hr/>
 <br/><br/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cherkani/Cherkani/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Cherkani/Cherkani/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Cherkani/Cherkani/blob/output/github-snake.svg" />
-</picture>
-  <br/><br/><br/>
-</div>
-<br/><br/>
-<hr/>
-<br/><br/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <div align="center">
@@ -118,3 +106,16 @@
 🚀 **Eager to refine skills, contribute to computer science.**
  </div>
 <hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cherkani/Cherkani/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Cherkani/Cherkani/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Cherkani/Cherkani/blob/output/github-snake.svg" />
+</picture>
+  <br/><br/><br/>
+</div>
+<br/><br/>
+<hr/>
+<br/><br/>
