@@ -17,7 +17,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on as a **Freelancer**
+ 🔭 I’m currently working as a **Freelancer**
  
  🌱 I’m currently learning **Docker, AWS**
 
