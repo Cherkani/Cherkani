@@ -17,8 +17,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **Freelancer**
- 
  🌱 I’m currently learning **Docker, AWS**
 
 💬 Ask me about **React, Java... or anything [here](https://cherkani.me)**
