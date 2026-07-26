@@ -1,12 +1,13 @@
-<h1 align="center">Aymen Cherkani</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=false&width=620&height=70&lines=Aymen+Cherkani" alt="Aymen Cherkani" />
+</p>
 
 <p align="center">
   Software Development Engineer · Casablanca, Morocco
 </p>
 
 <p align="center">
-  Software Engineer building AI-powered enterprise reporting solutions across backend,
-  frontend, cloud operations, and customer delivery.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1100&color=64748B&center=true&vCenter=true&width=760&height=45&lines=AI-powered+backend+and+cloud+engineer;FastAPI+%C2%B7+LangChain+%C2%B7+Oracle+JET+%C2%B7+OCI;From+solution+delivery+to+production+support" alt="AI-powered backend and cloud engineer" />
 </p>
 
 <p align="center">
@@ -23,14 +24,14 @@
   <img src="https://img.shields.io/badge/OCI-0f172a?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure (OCI)" />
 </p>
 
-## About
+<h2 align="center">🧭 Professional focus</h2>
 
 - Currently working as a Software Development Engineer on AI-powered reporting and summarisation solutions.
 - Building reporting and summarisation solutions for Oracle customers using AI and modern web technologies.
 - Experienced across the delivery lifecycle: application development, security, DevOps, releases, and production support.
 - Open to collaborating on thoughtful, high-impact software projects.
 
-## Core stack
+<h2 align="center">🧰 Core stack</h2>
 
 `Python` · `FastAPI` · `LangChain` · `Preact` · `Oracle JET` · `BFF` · `Oracle Cloud Infrastructure` · `Oracle SQL` · `Devtron` · `Kubernetes` · `Git` · `Java`
 
@@ -38,13 +39,15 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,js,react,mysql,docker,kubernetes,git&perline=8" alt="Core technologies" />
 </p>
 
-## What I'm working on
+<h2 align="center">🚀 What I'm working on</h2>
 
 I develop end-to-end reporting and summarisation solutions for Oracle customers. My work covers FastAPI and LangChain services, backend-for-frontend (BFF) APIs, and Oracle JET user interfaces. I also contribute to secure delivery and operations through Devtron-based Kubernetes deployments, release activities, and production support.
 
+<h2 align="center">🤝 Delivery & collaboration</h2>
+
 I work closely with product, engineering, and customer teams to clarify requirements, participate in live customer sessions, investigate incidents, and deliver effective fixes.
 
-## GitHub activity
+<h2 align="center">📈 GitHub activity</h2>
 
 <div align="center">
   <picture>
@@ -61,7 +64,7 @@ I work closely with product, engineering, and customer teams to clarify requirem
   <img src="https://streak-stats.demolab.com?user=Cherkani&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </div>
 
-## Contributions
+<h2 align="center">🐍 Contributions</h2>
 
 <div align="center">
   <picture>
