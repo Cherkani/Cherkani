@@ -74,6 +74,16 @@ I work closely with product, engineering, and customer teams to clarify requirem
   <img src="https://streak-stats.demolab.com?user=Cherkani&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cherkani&theme=github-dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cherkani&bg_color=ffffff&color=64748b&line=0ea5e9&point=0ea5e9&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cherkani&bg_color=ffffff&color=64748b&line=0ea5e9&point=0ea5e9&area=true&hide_border=true" alt="GitHub contribution activity graph for Aymen Cherkani" />
+    </picture>
+  </a>
+</div>
+
 <br>
 
 <h2 align="center">Contributions</h2>
