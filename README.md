@@ -1,119 +1,70 @@
-
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cherkani&label=Profile%20views&color=2196f3&style=flat" alt="cherkani" /> </p>
-
+<h1 align="center">Aymen Cherkani</h1>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=36bcf7&center=true&vCenter=true&repeat=false&width=556&height=70&lines=Aymen+Cherkani+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36bcf7&center=true&vCenter=true&width=556&height=70&lines=FullStack+Developer;MOBILE+Developer;" alt="Typing SVG" /></a>
+  Software Development Engineer · Casablanca, Morocco
 </p>
 
+<p align="center">
+  Software Engineer building AI-powered enterprise reporting solutions across backend,
+  frontend, cloud operations, and customer delivery.
+</p>
 
-<!--font=Fira+Code-->
+<p align="center">
+  <a href="mailto:cherkaniaymen1@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/aymen-cherkani-a68b1224a/">LinkedIn</a> ·
+  <a href="https://cherkani.vercel.app/">Portfolio</a>
+</p>
 
-<h3 align="center">A passionate software developer from Morroco MA</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-0f172a?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-<br/>
+## About
 
-<div align="center">
- 
- 🌱 I’m currently learning **Docker, AWS**
+- Currently working as a Software Development Engineer on AI-powered reporting and summarisation solutions.
+- Building reporting and summarisation solutions for Oracle customers using AI and modern web technologies.
+- Experienced across the delivery lifecycle: application development, security, DevOps, releases, and production support.
+- Open to collaborating on thoughtful, high-impact software projects.
 
-💬 Ask me about **React, Java... or anything [here](https://cherkani.me)**
+## Core stack
 
-⚡  All of my projects are available [here](https://cherkani.me)
+`Python` · `FastAPI` · `LangChain` · `Java` · `Spring Boot` · `Oracle JET` · `BFF` · `Oracle SQL` · `Devtron` · `Kubernetes` · `Git`
 
- </div>
- <br/>
- <br/>
-<div align="center"> 
-  <a href="mailto:cherkaniaymen1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/aymen-cherkani-a68b1224a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://cherkani.me" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-<br/><br/>
- <hr/>
- <br/><br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,androidstudio,vite,html,css,laravel,vscode,github,figma,tailwind,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,linux,express,mysql,firebase,mongodb,c,java,jquery,aws,postman,git" /><br>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,js,react,mysql,oracle,docker,kubernetes,git&perline=11" alt="Core technologies" />
+</p>
 
-<br/>
-<br/><br/>
-<hr/>
-<br/><br/>
+## What I'm working on
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<div align="center">
-    <img src="https://streak-stats.demolab.com/?user=cherkani&theme=tokyonight" />
-</div>
+I develop end-to-end reporting and summarisation solutions for Oracle customers. My work covers FastAPI and LangChain services, backend-for-frontend (BFF) APIs, and Oracle JET user interfaces. I also contribute to secure delivery and operations through Devtron-based Kubernetes deployments, release activities, and production support.
 
-<br />
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cherkani&theme=tokyonight" />
-</div>
-<br/>
-<div align="center">
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cherkani&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+I work closely with product, engineering, and customer teams to clarify requirements, participate in live customer sessions, investigate incidents, and deliver effective fixes.
 
+## GitHub activity
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cherkani&theme=github_dark" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cherkani&theme=github" alt="GitHub statistics for Aymen Cherkani" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cherkani&theme=github_dark" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cherkani&theme=github" alt="Most used languages" />
+  </picture>
+</p>
 
+<p>
+  <img src="https://streak-stats.demolab.com?user=Cherkani&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
 
+## Contributions
 
-
-
-
-
-<br/><br/>
-
-
-
-
-
-
-
-
-<hr/>
-<br/><br/>
-
-<h2 align="center">💫 About Me 💫 </h2>
-<br/>
-<div align="center">
- 
-
-👨‍🎓 **Cherkani Aymen, ENSAJ student, Morocco.**
-
-🛠 **4-year software engineer, specialized in OOP.**
-
-💻 **Experienced in Java, web technologies, SDLC.**
-
-🌐 **Full-stack web and mobile app development.**
-
-🚀 **Eager to refine skills, contribute to computer science.**
- </div>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cherkani/Cherkani/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Cherkani/Cherkani/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Cherkani/Cherkani/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake.svg" />
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake.svg" />
 </picture>
-  <br/><br/><br/>
-</div>
-<br/><br/>
-<hr/>
-<br/><br/>
