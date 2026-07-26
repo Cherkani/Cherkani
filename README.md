@@ -80,8 +80,8 @@ I work closely with product, engineering, and customer teams to clarify requirem
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake.svg" />
-    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
