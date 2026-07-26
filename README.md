@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Preact-0f172a?style=flat-square&logo=preact&logoColor=white" alt="Preact" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-0f172a?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/OCI-0f172a?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure (OCI)" />
 </p>
 
 ## About
