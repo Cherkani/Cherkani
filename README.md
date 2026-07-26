@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-0f172a?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Preact-0f172a?style=flat-square&logo=preact&logoColor=white" alt="Preact" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-0f172a?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
 </p>
 
 ## About
@@ -32,10 +32,10 @@
 
 ## Core stack
 
-`Python` · `FastAPI` · `LangChain` · `Java` · `Spring Boot` · `Oracle JET` · `BFF` · `Oracle SQL` · `Devtron` · `Kubernetes` · `Git`
+`Python` · `FastAPI` · `LangChain` · `Preact` · `Oracle JET` · `BFF` · `Oracle Cloud Infrastructure` · `Oracle SQL` · `Devtron` · `Kubernetes` · `Git` · `Java`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,js,react,mysql,oracle,docker,kubernetes,git&perline=11" alt="Core technologies" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,react,mysql,docker,kubernetes,git&perline=8" alt="Core technologies" />
 </p>
 
 ## What I'm working on
@@ -46,7 +46,7 @@ I work closely with product, engineering, and customer teams to clarify requirem
 
 ## GitHub activity
 
-<p>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cherkani&theme=github_dark" />
     <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cherkani&theme=github" alt="GitHub statistics for Aymen Cherkani" />
@@ -55,16 +55,18 @@ I work closely with product, engineering, and customer teams to clarify requirem
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cherkani&theme=github_dark" />
     <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cherkani&theme=github" alt="Most used languages" />
   </picture>
-</p>
+</div>
 
-<p>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Cherkani&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
+</div>
 
 ## Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake.svg" />
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake.svg" />
+    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Cherkani/Cherkani/output/github-snake.svg" />
+  </picture>
+</div>
