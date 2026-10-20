@@ -75,11 +75,10 @@ I work closely with product, engineering, and customer teams to clarify requirem
 </div>
 
 <div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/Cherkani">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cherkani&theme=github-dark&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cherkani&bg_color=ffffff&color=64748b&line=0ea5e9&point=0ea5e9&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cherkani&bg_color=ffffff&color=64748b&line=0ea5e9&point=0ea5e9&area=true&hide_border=true" alt="GitHub contribution activity graph for Aymen Cherkani" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cherkani&theme=github_dark" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cherkani&theme=github" alt="GitHub contribution history for Aymen Cherkani" />
     </picture>
   </a>
 </div>
